@@ -4,7 +4,7 @@ def get_hwang():
     return 'hwang'
 
 def get_telco():
-    return 'telco'
+    return 'telcoware'
 
 if __name__ == "__main__": 
     print ("%s" % get_hwang())
